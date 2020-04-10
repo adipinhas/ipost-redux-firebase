@@ -1,0 +1,8 @@
+.create-form{
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+}
+.create-form *{
+    margin-bottom: 30px;
+}

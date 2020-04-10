@@ -1,0 +1,14 @@
+.list {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 55%;
+}
+
+.in-links{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 50%;
+}
